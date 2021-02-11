@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/caioagiani/happy-nlw3">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/caioagiani/happy-nlw3">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/caioagiani/happy-nlw3">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/caioagiani/happy-nlw3">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jrantunes/nlw3-happy-mobile">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jrantunes/nlw3-happy-mobile">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/jrantunes/nlw3-happy-mobile">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jrantunes/nlw3-happy-mobile">
 </p>
 
 <br>
